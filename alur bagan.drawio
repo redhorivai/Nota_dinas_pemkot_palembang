@@ -1,9 +1,180 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Halaman-1" id="V2P5FlIGPuNJy6bR8IvU">
-    <mxGraphModel>
+    <mxGraphModel dx="4471" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z9kHfqypY6VMaFfeUSem-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-1" target="z9kHfqypY6VMaFfeUSem-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-1" value="PENGAJUAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-2" target="z9kHfqypY6VMaFfeUSem-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-2" target="z9kHfqypY6VMaFfeUSem-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-2" value="VERIFIKASI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-4" target="z9kHfqypY6VMaFfeUSem-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-4" value="DITERIMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-6" value="DITOLAK" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-8" value="DISETUJUI SEKDA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-6" target="z9kHfqypY6VMaFfeUSem-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="650" as="sourcePoint" />
+            <mxPoint x="520" y="353" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="650" />
+              <mxPoint x="680" y="500" />
+              <mxPoint x="680" y="380" />
+              <mxPoint x="600" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-11" target="z9kHfqypY6VMaFfeUSem-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-11" value="USER OPD/SETDA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-13" target="z9kHfqypY6VMaFfeUSem-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-13" value="OPD 1&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-14" value="&lt;span style=&quot;color: rgb(73, 80, 87); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14.08px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: rgb(224, 243, 255); display: inline !important;&quot;&gt;Rekomendasi perjalanan Dinas Bagi Kepala OPD / Badan / Camat Kota Palembang&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-15" target="z9kHfqypY6VMaFfeUSem-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-15" value="PENGAJUAN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-17" target="z9kHfqypY6VMaFfeUSem-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-17" target="z9kHfqypY6VMaFfeUSem-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-17" value="OUTPUT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-20" target="z9kHfqypY6VMaFfeUSem-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-20" value="SPT TTD SEKDA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-22" target="z9kHfqypY6VMaFfeUSem-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-22" value="SPD TTD&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-24" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;SPD TERDIRI 2 HAL:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;HAL 1 TTD PPK&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;HAL 2 TTD KEPALA OPD &amp;amp; PPPK&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;TAMBAH SUB MENU KEPALA OPD/PPK (FUNGSI NYA SEBAGAI TTD DI SPD HAL 1 DAN 2)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;&lt;b&gt;NON TTE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="640" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-26" value="OUTPUT PDF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-28" value="OUTPUT PDF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-30" target="z9kHfqypY6VMaFfeUSem-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-30" value="SEKRETARIAT DAERAH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-31" value="SEKRETARIAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-955" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-32" target="z9kHfqypY6VMaFfeUSem-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-32" value="PENGAJUAN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-34" target="z9kHfqypY6VMaFfeUSem-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-34" target="z9kHfqypY6VMaFfeUSem-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-34" value="OUTPUT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-37" value="SPT TTD SEKDA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-39" value="SPD TTD OPD&amp;amp;PPK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-41" value="12 BAGIAN SETDA&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-905" y="390" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-42" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;NOTE: AKUN OPD (PENGAJUAN) DITAMBAHKAN FIELD OPTION:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;1. KEPALA OPD&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;2. PPPK&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#495057&quot;&gt;&lt;span style=&quot;font-size: 14.08px; background-color: rgb(224, 243, 255);&quot;&gt;BERDASARKAN DATA INPUT MASTER SUB MENU KEPALA OPD/PPK&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="410" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-43" value="1. TAMBAH MENU BARU UNTUK SETDA DAN DATA MASTER&lt;div&gt;2. MENU SETDA KEUANGAN&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="870" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-45" target="z9kHfqypY6VMaFfeUSem-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-45" value="OPD INTERNAL&amp;nbsp;&lt;div&gt;KHUSUS PEGAWAI BUKAN KEPALA OPD&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1859" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-46" target="z9kHfqypY6VMaFfeUSem-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-46" value="PENGAJUAN&amp;nbsp;&lt;div&gt;USER OPD&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1859" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-48" target="z9kHfqypY6VMaFfeUSem-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-48" value="PROSES" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1839" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-50" target="z9kHfqypY6VMaFfeUSem-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-50" value="VERIFIKATOR&lt;div&gt;SEKRETARIS&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1859" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-52" target="z9kHfqypY6VMaFfeUSem-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9kHfqypY6VMaFfeUSem-52" target="z9kHfqypY6VMaFfeUSem-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-52" value="DISETUJUI&lt;div&gt;KEPALA OPD&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1859" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-55" value="SPT TTD KEPALA OPD" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2100" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-57" value="SPT TTD KEPALA OPD &amp;amp; PPK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9kHfqypY6VMaFfeUSem-59" value="DESIGN KOP SURAT BERBEDA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="-1970" y="980" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
